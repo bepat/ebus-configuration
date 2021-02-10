@@ -23,6 +23,11 @@
                     {"name":"temp_boiler", "type": "data1c", "format":"%.1f°C"},
                     {"name":"temp_storage", "type": "data1c", "format":"%.1f°C"},
                     {"name":"temp_dhw", "type": "data1c", "format":"%.1f°C"}
+                    {"name":"unknown2", "type": "byte"},
+                    {"name":"unknown3", "type": "byte"},
+                    {"name":"unknown4", "type": "byte"},
+                    {"name":"unknown5", "type": "byte"},
+                    {"name":"unknown6", "type": "byte"}
                 ]
             }
         }
