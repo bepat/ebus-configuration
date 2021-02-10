@@ -27,7 +27,7 @@
 
 		{"name": "weishaupt-wcm-em-21", "url": "./commands/weishaupt/weishaupt-wcm-em-21.json"},
 		{"name": "weishaupt-wcm-fs-20-hc", "url": "./commands/weishaupt/weishaupt-wcm-fs-20-hc.json"},
-		{"name": "weishaupt-wtc15-bc", "url": "./commands/weishaupt/weishaupt-wtc15-bc.json"},
-		{"name": "weishaupt-wtc15-hc", "url": "./commands/weishaupt/weishaupt-wtc15-hc.json"}
+		{"name": "weishaupt-wtc15-bc", "url": "./commands/weishaupt/weishaupt-wtc-15-bc.json"},
+		{"name": "weishaupt-wtc15-hc", "url": "./commands/weishaupt/weishaupt-wtc-15-hc.json"}
 	]
 }
