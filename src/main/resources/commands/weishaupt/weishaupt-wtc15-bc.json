@@ -13,7 +13,7 @@
             "label":    "Operational data of burner control",
             "id":       "bc.op_data",
             "command":  "50 0A",
-            "get": {
+            "broadcast": {
                 "master": [
                     {"name":"status1", "type": "byte"},
                     {"name":"operational_pahse", "type": "byte"},
@@ -27,8 +27,7 @@
                     {"name":"unknown3", "type": "byte"},
                     {"name":"unknown4", "type": "byte"},
                     {"name":"unknown5", "type": "byte"},
-                    {"name":"unknown6", "type": "byte"},
-                    {"name":"unknown7", "type": "byte"}
+                    {"name":"unknown6", "type": "byte"}
                 ]
             }
         }
