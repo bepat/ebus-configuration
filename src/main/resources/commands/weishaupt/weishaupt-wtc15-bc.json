@@ -1,0 +1,30 @@
+{
+    "id":           "wcm_fs20_hc",
+    "vendor":       "Weishaupt",
+    "label":        "Weishaupt WTC 15 burner control",
+    "description":  "Weishaupt WTC 15 burner control",
+
+    "authors":      ["Benedikt Patt"],
+
+    "identification": ["57 0F 00 0F BD"],
+
+    "commands": [
+        {
+            "label":    "Operational data of burner control",
+            "id":       "bc.op_data",
+            "command":  "50 0A",
+            "get": {
+                "master": [
+                    {"name":"status1", "type": "byte"},
+                    {"name":"operational_pahse", "type": "byte"},
+                    {"name":"status2", "type": "byte"},
+                    {"name":"status3", "type": "byte"},
+                    {"name":"unknown1", "type": "byte"},
+                    {"name":"temp_boiler", "type": "data1c", "format":"%.1f°C"},
+                    {"name":"temp_storage", "type": "data1c", "format":"%.1f°C"},
+                    {"name":"temp_dhw", "type": "data1c", "format":"%.1f°C"}
+                ]
+            }
+        }
+    ]
+}

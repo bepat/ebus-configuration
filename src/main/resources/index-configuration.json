@@ -23,6 +23,11 @@
 		{"name": "vaillant-vrc700-zone2", "url": "./commands/vaillant/vaillant-vrc700-zone2-configuration.json"},
 		{"name": "vaillant-vrc700-vac", "url": "./commands/vaillant/vaillant-vrc700-vac-configuration.json"},
 		{"name": "vaillant-pmw", "url": "./commands/vaillant/vaillant-pmw-configuration.json"},
-		{"name": "vaillant-vr90", "url": "./commands/vaillant/vaillant-vr90-configuration.json"}
+		{"name": "vaillant-vr90", "url": "./commands/vaillant/vaillant-vr90-configuration.json"},
+
+		{"name": "weishaupt-wcm-em-21", "url": "./commands/weishaupt/weishaupt-wcm-em-21.json"},
+		{"name": "weishaupt-wcm-fs-20-hc", "url": "./commands/weishaupt/weishaupt-wcm-fs-20-hc.json"},
+		{"name": "weishaupt-wtc15-bc", "url": "./commands/weishaupt/weishaupt-wtc15-bc.json"},
+		{"name": "weishaupt-wtc15-hc", "url": "./commands/weishaupt/weishaupt-wtc15-hc.json"}
 	]
 }

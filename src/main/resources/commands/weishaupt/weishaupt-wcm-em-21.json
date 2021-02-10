@@ -1,0 +1,13 @@
+{
+    "id":           "wcm_fs20_hc",
+    "vendor":       "Weishaupt",
+    "label":        "Weishaupt WCM-EM 2.1 extension module",
+    "description":  "Weishaupt WCM-EM 2.1 extension module",
+
+    "authors":      ["Benedikt Patt"],
+
+    "identification": ["57 03 00 08 00"],
+
+    "commands": [
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id":           "wcm_fs20_hc",
+    "vendor":       "Weishaupt",
+    "label":        "Weishaupt WCM-FS 2.0 heating circuit controller",
+    "description":  "Weishaupt WCM-FS 2.0 heating circuit controller",
+
+    "authors":      ["Benedikt Patt"],
+
+    "identification": ["57 02 00 18 00"],
+
+    "commands": [
+    ]
+}

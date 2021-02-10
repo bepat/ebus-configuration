@@ -1,0 +1,13 @@
+{
+    "id":           "wcm_fs20_hc",
+    "vendor":       "Weishaupt",
+    "label":        "Weishaupt WTC 15 heating control",
+    "description":  "Weishaupt WTC 15 heating control",
+
+    "authors":      ["Benedikt Patt"],
+
+    "identification": ["57 0F 00 0F BD"],
+
+    "commands": [
+    ]
+}
