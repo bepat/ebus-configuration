@@ -28,6 +28,7 @@
                     {"name":"unknown4", "type": "byte"},
                     {"name":"unknown5", "type": "byte"},
                     {"name":"unknown6", "type": "byte"}
+                    {"name":"unknown7", "type": "byte"}
                 ]
             }
         }
